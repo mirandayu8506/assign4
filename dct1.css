@@ -41,40 +41,38 @@ time{
      display:block;
     text-align:center;
     }
-
-
-nav{
-   color:rgb(96,190,174);
-   margin:auto;
-    width:350px;
+    nav{
+        color:rgb(96,190,174);
+        margin:auto;
+        width:350px;
+        display:inline-block;
+        font-size:1.4em;
+        padding:10px;
+        background-color:white;
+    }
+    nav ul{
+    
+    list-style: none;
+    padding-left:0px;
+    }
+    nav ul li{
     display:inline-block;
-    font-size:1.4em;
-    padding:10px;
-    background-color:white;
-}
-nav ul{
-  
-  list-style: none;
-  padding-left:0px;
-}
-nav ul li{
-  display:inline-block;
-  margin:auto; 
-}
-aside{
-    display:none;
-}
-.discuss{
-    height:248px;
-    max-width:100%;
-}
-.title-box{
-    max-width:100%;
-}
-.title{
-   color:rgb(96,190,174); 
-}
-.hero-unit{
-    max-width:100%;
-}
+    margin:auto; 
+    }
+    aside{
+        display:none;
+    }
+    .discuss{
+        height:248px;
+        max-width:100%;
+    }
+    .title-box{
+        max-width:100%;
+    }
+    .title{
+    color:rgb(96,190,174); 
+    }
+    .hero-unit{
+        max-width:100%;
+    }
 }
