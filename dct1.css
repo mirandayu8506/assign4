@@ -11,7 +11,7 @@
     max-width:60px;
 }
 nav{
-   font:rgb(96,190,174);
+   color:rgb(96,190,174);
    margin:auto;
     width:100%;
     display:inline-block;
@@ -37,5 +37,10 @@ aside{
 .title-box{
     max-width:100%;
 }
-
+.title{
+   color:rgb(96,190,174); 
+}
+.hero-unit{
+    max-width:100%;
+}
 }
