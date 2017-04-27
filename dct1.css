@@ -32,7 +32,7 @@
     margin:auto; 
     }
     #wrapper>.aside{
-        display:none;
+        visibility:hidden;
     }
     .title-box{
         display:block;
@@ -53,7 +53,7 @@
         float:left;
     }
     #nd-nav{
-        display:none;
+        visibility:hidden;
     }
     #archives{
         display:flex;
