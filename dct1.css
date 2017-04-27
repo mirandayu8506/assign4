@@ -4,6 +4,9 @@
 #wrapper{
     text-align:center;
 }
+#nav-info{
+    display:block;
+}
 .icon{
     padding-bottom:15px;
     max-width:60px;
