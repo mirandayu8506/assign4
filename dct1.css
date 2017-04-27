@@ -1,19 +1,28 @@
-@media screen and (max-device-width: 350px){
+@media screen and (max-device-width: 480px){
     padding-top:10px;
+    max-width:350px;
 .wrapper{
     text-align:center;
 }
 .icon{
     padding-bottom:15px;
+    max-width:60px;
 }
 .ul{
    font:rgb(96,190,174);
     display:inline-block;
+    font-size:1.4em;
+    padding:10px;
 }
 .aside{
     display:none;
 }
+.discuss{
+    height:248px;
+    max-width:100%;
+}
 .title-box{
     max-width:100%;
 }
+
 }
