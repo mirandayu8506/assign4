@@ -60,11 +60,12 @@ time{
     nav{
         color:rgb(96,190,174);
         margin:auto;
-        width:350px;
+        width:100%;
         display:inline-block;
         font-size:1.4em;
         padding:10px;
-        background-color:white;
+        background-color:none;
+        border-right:none;
     }
     nav ul{
     
@@ -79,16 +80,19 @@ time{
         display:none;
     }
     .discuss{
+        display:inline-block;
         height:248px;
         max-width:100%;
     }
     .title-box{
+        display:block;
         max-width:100%;
     }
-    .title{
+    #archives.title{
     color:rgb(96,190,174); 
     }
-    .hero-unit{
+    .arti-with-pic{
+        display:inline-block;
         max-width:100%;
     }
 }
