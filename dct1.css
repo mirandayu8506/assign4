@@ -2,10 +2,10 @@
 @media screen and (max-device-width: 480px){
     body{
     padding-top:10px;
+    
     }
     .icon{
         display:block;
-        float:left;
         max-width:100%;
         text-align:center;
     }
@@ -16,7 +16,7 @@
     nav{
         color:rgb(96,190,174);
         margin:auto;
-        width:100%;
+        width:350px;
         display:inline-block;
         font-size:1.4em;
         padding:10px;
@@ -32,26 +32,35 @@
     display:inline-block;
     margin:auto; 
     }
-    aside{
-        display:none;
-    }
-    .discuss{
-        display:inline-block;
-        height:248px;
-        max-width:100%;
-    }
-    #nd-nav{
+    #wrapper>aside{
         display:none;
     }
     .title-box{
         display:block;
-        max-width:100%;
+        max-width:350px;
     }
+    .discuss{
+        display:inline-block;
+        height:248px;
+        max-width:350px;
+    }
+    .tittleA{
+        display:block;
+        max-width:350px;
+        font-size:1rem;
+        line-height:1rem;
+        padding:10px;
+        float:left;
+    }
+    #nd-nav{
+        display:none;
+    }
+    
     #archives.title{
     color:rgb(96,190,174); 
     }
     .arti-with-pic{
         display:inline-block;
-        max-width:100%;
+        max-width:350px;
     }
 }
