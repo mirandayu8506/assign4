@@ -1,0 +1,35 @@
+body{
+    max-width:100%;
+}
+#wrapper{
+     display:block;
+    text-align:center;
+    }
+nav{
+   color:rgb(96,190,174);
+   margin:auto;
+    width:100%;
+    display:inline-block;
+    font-size:2rem;
+    padding:10px;
+}
+.discuss{
+    display:inline-block;
+}
+nav ul{
+  
+  list-style: none;
+  padding-left:0px;
+}
+nav ul li{
+    display:inline-block;
+    margin:auto; 
+    padding:10px;
+    border-bottom:10px;
+}
+.arti-with-pic{
+    display:inline-block;
+}
+.arti-with-pic>title{
+     color:rgb(96,190,174);
+}
