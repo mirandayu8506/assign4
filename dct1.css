@@ -2,7 +2,12 @@
 @media screen and (max-device-width: 480px){
     body{
     padding-top:10px;
-    max-width:350px;
+    }
+    .icon{
+        display:block;
+        float:left;
+        max-width:100%;
+        text-align:center;
     }
     #wrapper{
      display:block;
