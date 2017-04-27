@@ -60,7 +60,7 @@
        flex-wrap:wrap;
     }
     #archives>img{
-        width:350px;
+        max-width:350px;
         order:1;
     }
     #archives>.title{
