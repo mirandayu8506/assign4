@@ -1,0 +1,8 @@
+@media screen and (max-device-width: 480px){
+.icon{
+    padding-bottom:15px;
+}
+.nav-info{
+   font:rgb(96,190,174);
+}
+}
