@@ -1,20 +1,22 @@
 @media screen and (max-device-width: 480px){
     padding-top:10px;
     max-width:350px;
-.wrapper{
+#wrapper{
     text-align:center;
 }
 .icon{
     padding-bottom:15px;
     max-width:60px;
 }
-.ul{
+nav{
    font:rgb(96,190,174);
+   margin:auto;
+    width:100%;
     display:inline-block;
     font-size:1.4em;
     padding:10px;
 }
-.aside{
+aside{
     display:none;
 }
 .discuss{
