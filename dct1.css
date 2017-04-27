@@ -44,10 +44,11 @@ time{
 nav{
    color:rgb(96,190,174);
    margin:auto;
-    width:100%;
+    width:350px;
     display:inline-block;
     font-size:1.4em;
     padding:10px;
+    background-color:white;
 }
 nav ul{
   
