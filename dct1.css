@@ -2,11 +2,10 @@
     padding-top:10px;
     max-width:350px;
 #wrapper{
+     display:block;
     text-align:center;
 }
-#nav-info{
-    display:block;
-}
+
 .icon{
     padding-bottom:15px;
     max-width:60px;
