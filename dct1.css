@@ -1,6 +1,12 @@
+@media screen and(min-device-width:992px){
 body{
     max-width:100%;
-    text-align:center;
+    float:right;
+    width:80%;
+}
+aside{
+    float:left;
+    width:20%;
 }
 #wrapper{
      display:block;
@@ -40,6 +46,7 @@ nav ul li{
 }
 time{
     color:#AAA;
+}
 }
 @media screen and (max-device-width: 480px){
     body{
