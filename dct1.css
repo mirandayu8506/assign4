@@ -33,12 +33,14 @@ time{
     color:#AAA;
 }
 @media screen and (max-device-width: 480px){
+    body{
     padding-top:10px;
     max-width:350px;
-#wrapper{
+    }
+    #wrapper{
      display:block;
     text-align:center;
-}
+    }
 
 
 nav{
