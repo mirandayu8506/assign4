@@ -200,7 +200,7 @@ time{
     
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 768px){
     body{
         max-width:768px;
         padding-top:30px;
@@ -299,7 +299,7 @@ time{
     }
 
 }
-@media screen and(min-width: 991px){
+@media screen and (min-width: 991px){
  body{
         max-width:991px;
         padding-top:50px;
@@ -321,6 +321,11 @@ time{
      .icon>img{
         width:100px;
     }
+     .discuss>img{
+        height:445px;
+        width:100%;
+        text-align: center;
+    }
     nav{
         display:block;
         padding-left:0px;
@@ -334,7 +339,7 @@ time{
     
      nav ul li{
          display:inline-block;
-         
+        left:0;
         margin: 0px;
          font-size:2rem;
          padding-bottom:18px;
